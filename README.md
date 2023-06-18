@@ -62,8 +62,6 @@ A função `remover_tarefa` permite remover uma tarefa existente. Ela exibe as t
 
 A função `filtrar_tarefas` permite filtrar as tarefas por status. O usuário deve digitar o status pelo qual deseja filtrar as tarefas. Em seguida, serão exibidas apenas as tarefas que possuem o status informado.
 
-## Considerações Fina
-
-is
+## Considerações Finais
 
 Este programa simples de gerenciamento de tarefas pode ser uma ótima base para criar aplicações mais avançadas. Sinta-se à vontade para modificar e melhorar o código de acordo com suas necessidades. Espero que seja útil e ajude você a gerenciar suas tarefas de forma eficiente!
